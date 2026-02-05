@@ -1,42 +1,37 @@
 {
   "games": [
-    {
-      "id": "grand-theft-auto-v",
-      "title": "GTA V",
-      "description": "High-stakes heists and open-world mayhem in Los Santos.",
-      "longDescription": "Experience the ultimate open-world action game set in the sprawling city of Los Santos...",
-      "price": 29.99,
-      "category": "Classic",
-      "image": "https://your-domain.com/images/gta_v.jpg",
-      "rating": 4.8,
-      "tags": ["Action", "Open World", "Multiplayer"],
-      "releaseDate": "2013-09-17",
-      "developer": "Rockstar Games",
-      "features": ["4K Resolution", "Online Mode"]
-    },
-    {
-      "id": "cyber-odyssey",
-      "title": "Cyber Odyssey",
-      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
-      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
-      "price": 29.99,
-      "category": "New Release",
-      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
-      "rating": 4.8,
-      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
-      "releaseDate": "2024-01-15",
-      "developer": "SXD Studios",
-      "features": ["Ray Tracing", "DLSS Support"]
-    }
+    { "id": "cyber-odyssey", "title": "Cyber Odyssey", "description": "Neon-drenched districts and high-stakes contracts.", "price": 29.99, "category": "New Release", "rating": 4.8, "tags": ["Cyberpunk", "RPG"], "releaseDate": "2024-01-15", "developer": "SXD Studios" },
+    { "id": "gta-v", "title": "GTA V", "description": "High-stakes heists in Los Santos.", "price": 29.99, "category": "Classic", "rating": 4.9, "tags": ["Action", "Open World"], "releaseDate": "2013-09-17", "developer": "Rockstar Games" },
+    { "id": "neon-pulse", "title": "Neon Pulse", "description": "Fast-paced rhythm combat in a synthwave world.", "price": 19.99, "category": "Indie", "rating": 4.5, "tags": ["Rhythm", "Action"], "releaseDate": "2023-11-02", "developer": "Pulse Labs" },
+    { "id": "galactic-drift", "title": "Galactic Drift", "description": "Interstellar racing across asteroid belts.", "price": 39.99, "category": "Racing", "rating": 4.2, "tags": ["Space", "Racing"], "releaseDate": "2024-03-20", "developer": "Orbit Games" },
+    { "id": "shadow-realm", "title": "Shadow Realm", "description": "Dark fantasy souls-like with brutal combat.", "price": 49.99, "category": "Hardcore", "rating": 4.7, "tags": ["Souls-like", "Fantasy"], "releaseDate": "2023-08-12", "developer": "Void Interactive" },
+    { "id": "pixel-farm", "title": "Pixel Farm", "description": "Relaxing farming simulator with 8-bit charm.", "price": 14.99, "category": "Casual", "rating": 4.9, "tags": ["Simulation", "Relaxing"], "releaseDate": "2022-05-30", "developer": "Green Thumb" },
+    { "id": "urban-warfare", "title": "Urban Warfare", "description": "Tactical first-person shooter in destructible cities.", "price": 59.99, "category": "Shooter", "rating": 4.3, "tags": ["FPS", "Tactical"], "releaseDate": "2024-05-10", "developer": "Frontline Ops" },
+    { "id": "mystic-tides", "title": "Mystic Tides", "description": "Explore an underwater civilization and its secrets.", "price": 24.99, "category": "Adventure", "rating": 4.6, "tags": ["Exploration", "Sci-Fi"], "releaseDate": "2023-12-25", "developer": "Deep Blue" },
+    { "id": "code-breaker", "title": "Code Breaker", "description": "Solve complex puzzles to stop a global virus.", "price": 9.99, "category": "Puzzle", "rating": 4.1, "tags": ["Puzzle", "Logic"], "releaseDate": "2024-02-14", "developer": "Logic Gate" },
+    { "id": "dragon-slayer", "title": "Dragon Slayer", "description": "Epic open-world RPG with dragon-riding mechanics.", "price": 54.99, "category": "RPG", "rating": 4.8, "tags": ["Fantasy", "Open World"], "releaseDate": "2023-06-01", "developer": "Mythic Works" },
+    { "id": "velocity-X", "title": "Velocity X", "description": "Anti-gravity combat racing at breakneck speeds.", "price": 34.99, "category": "Racing", "rating": 4.4, "tags": ["Sci-Fi", "Racing"], "releaseDate": "2024-01-20", "developer": "Aero Dynamics" },
+    { "id": "forest-whisper", "title": "Forest Whisper", "description": "A narrative-driven walking sim in a haunted woods.", "price": 12.99, "category": "Horror", "rating": 4.3, "tags": ["Horror", "Indie"], "releaseDate": "2023-10-31", "developer": "Eerie Tales" },
+    { "id": "mech-commander", "title": "Mech Commander", "description": "Build and lead a squad of giant robots.", "price": 44.99, "category": "Strategy", "rating": 4.5, "tags": ["Strategy", "Mechs"], "releaseDate": "2024-04-15", "developer": "Titan Forge" },
+    { "id": "star-settlers", "title": "Star Settlers", "description": "Colony management on a hostile alien planet.", "price": 29.99, "category": "Simulation", "rating": 4.7, "tags": ["Survival", "Base Building"], "releaseDate": "2023-09-05", "developer": "Cosmic Build" },
+    { "id": "rogue-ai", "title": "Rogue AI", "description": "A deck-building roguelike set inside a mainframe.", "price": 19.99, "category": "Card Game", "rating": 4.6, "tags": ["Roguelike", "Strategy"], "releaseDate": "2024-02-28", "developer": "Bit Shift" },
+    { "id": "samurai-zen", "title": "Samurai Zen", "description": "Precise swordplay in feudal Japan.", "price": 39.99, "category": "Action", "rating": 4.9, "tags": ["Action", "Historical"], "releaseDate": "2023-03-15", "developer": "Katana Studio" },
+    { "id": "frozen-peak", "title": "Frozen Peak", "description": "Survival adventure in a permanent winter.", "price": 24.99, "category": "Survival", "rating": 4.4, "tags": ["Survival", "Open World"], "releaseDate": "2022-11-11", "developer": "Cold Front" },
+    { "id": "neon-nights", "title": "Neon Nights", "description": "Dystopian detective thriller with branching paths.", "price": 27.99, "category": "Adventure", "rating": 4.5, "tags": ["Cyberpunk", "Mystery"], "releaseDate": "2024-06-01", "developer": "Noir Games" },
+    { "id": "battle-chess", "title": "Battle Chess Online", "description": "Animated pieces and competitive ranked play.", "price": 0.00, "category": "Free to Play", "rating": 4.2, "tags": ["Strategy", "Board Game"], "releaseDate": "2023-01-10", "developer": "King's Gambit" },
+    { "id": "wasteland-raider", "title": "Wasteland Raider", "description": "Vehicle combat in a post-apocalyptic desert.", "price": 34.99, "category": "Action", "rating": 4.3, "tags": ["Post-apocalyptic", "Combat"], "releaseDate": "2023-07-19", "developer": "Dust Storm" },
+    { "id": "alchemy-master", "title": "Alchemy Master", "description": "Craft potions and manage your magical shop.", "price": 18.99, "category": "Simulation", "rating": 4.8, "tags": ["Crafting", "Casual"], "releaseDate": "2024-03-05", "developer": "Cauldron Soft" },
+    { "id": "super-soccer-25", "title": "Super Soccer 25", "description": "The most realistic football sim on the market.", "price": 59.99, "category": "Sports", "rating": 3.9, "tags": ["Sports", "Multiplayer"], "releaseDate": "2024-09-01", "developer": "Global Sports" },
+    { "id": "dungeon-delve", "title": "Dungeon Delve", "description": "Infinite loot and monster slaying.", "price": 14.99, "category": "Indie", "rating": 4.4, "tags": ["Dungeon Crawler", "RPG"], "releaseDate": "2022-08-22", "developer": "Loot Goblin" },
+    { "id": "sky-high", "title": "Sky High", "description": "Build floating islands and fly your own airship.", "price": 29.99, "category": "Adventure", "rating": 4.7, "tags": ["Sandbox", "Building"], "releaseDate": "2023-05-14", "developer": "Cloud Nine" },
+    { "id": "cyber-arena", "title": "Cyber Arena", "description": "Fast-paced hero shooter with cyberpunk aesthetics.", "price": 0.00, "category": "Free to Play", "rating": 4.5, "tags": ["Shooter", "Cyberpunk"], "releaseDate": "2024-08-10", "developer": "SXD Studios" }
   ],
   "teamMembers": [
     {
       "name": "Sulfux Darkon",
       "role": "Creative Director",
-      "bio": "Visionary game designer...",
-      "socials": {
-        "twitter": "https://twitter.com/sulfux"
-      }
+      "bio": "Visionary game designer behind Cyber Odyssey.",
+      "socials": { "twitter": "https://twitter.com/sulfux" }
     }
   ]
 }
