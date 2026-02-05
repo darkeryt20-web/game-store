@@ -15,49 +15,7 @@
       "features": ["Ray Tracing", "DLSS Support"]
     }
     {
-      "id": "Grand Theft Auto",
-      "title": "GTA V",
-      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
-      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
-      "price": 29.99,
-      "category": "New Release",
-      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
-      "rating": 4.8,
-      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
-      "releaseDate": "2024-01-15",
-      "developer": "SXD Studios",
-      "features": ["Ray Tracing", "DLSS Support"]
-    }
-    {
-      "id": "Grand Theft Auto",
-      "title": "GTA V",
-      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
-      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
-      "price": 29.99,
-      "category": "New Release",
-      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
-      "rating": 4.8,
-      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
-      "releaseDate": "2024-01-15",
-      "developer": "SXD Studios",
-      "features": ["Ray Tracing", "DLSS Support"]
-    }
-    {
-      "id": "Grand Theft Auto",
-      "title": "GTA V",
-      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
-      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
-      "price": 29.99,
-      "category": "New Release",
-      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
-      "rating": 4.8,
-      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
-      "releaseDate": "2024-01-15",
-      "developer": "SXD Studios",
-      "features": ["Ray Tracing", "DLSS Support"]
-    }
-    {
-      "id": "Grand Theft Auto",
+      "id": "Minecraft",
       "title": "GTA V",
       "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
       "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
