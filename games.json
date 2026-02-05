@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": "cyber-odyssey",
+      "title": "Cyber Odyssey",
+      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
+      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
+      "price": 29.99,
+      "category": "New Release",
+      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
+      "rating": 4.8,
+      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
+      "releaseDate": "2024-01-15",
+      "developer": "SXD Studios",
+      "features": ["Ray Tracing", "DLSS Support"]
+    }
+  ],
+  "teamMembers": [
+    {
+      "name": "Sulfux Darkon",
+      "role": "Creative Director",
+      "bio": "Visionary game designer...",
+      "socials": {
+        "twitter": "https://twitter.com/sulfux"
+      }
+    }
+  ]
+}
