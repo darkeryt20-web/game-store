@@ -1,22 +1,22 @@
 {
   "games": [
     {
-      "id": "Grand Theft Auto",
+      "id": "grand-theft-auto-v",
       "title": "GTA V",
-      "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
-      "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
+      "description": "High-stakes heists and open-world mayhem in Los Santos.",
+      "longDescription": "Experience the ultimate open-world action game set in the sprawling city of Los Santos...",
       "price": 29.99,
-      "category": "New Release",
-      "image": "https://your-domain.com/images/cyber_odyssey.jpg",
+      "category": "Classic",
+      "image": "https://your-domain.com/images/gta_v.jpg",
       "rating": 4.8,
-      "tags": ["Cyberpunk", "Action", "RPG", "Open World"],
-      "releaseDate": "2024-01-15",
-      "developer": "SXD Studios",
-      "features": ["Ray Tracing", "DLSS Support"]
-    }
+      "tags": ["Action", "Open World", "Multiplayer"],
+      "releaseDate": "2013-09-17",
+      "developer": "Rockstar Games",
+      "features": ["4K Resolution", "Online Mode"]
+    },
     {
-      "id": "Grand Theft minenia",
-      "title": "GTA V",
+      "id": "cyber-odyssey",
+      "title": "Cyber Odyssey",
       "description": "Neon-drenched districts, high-stakes contracts, and a soundtrack that hits.",
       "longDescription": "Immerse yourself in a sprawling cyberpunk metropolis...",
       "price": 29.99,
