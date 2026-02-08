@@ -71,4 +71,598 @@
       "graphics": "NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB"
     }
   }
+  {
+    "id": 4,
+    "name": "Grand Theft Auto V",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/271590/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/465/465243.jpg",
+      "https://images2.alphacoders.com/465/465244.jpg",
+      "https://images3.alphacoders.com/465/465245.jpg",
+      "https://images4.alphacoders.com/465/465246.jpg",
+      "https://images5.alphacoders.com/465/465247.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+    "old_price": "29.99",
+    "new_price": "14.99",
+    "discount": "50%",
+    "rating": 4.7,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "release_date": "September 17, 2013",
+    "categories": ["Action", "Open World", "Simulation"],
+    "tags": ["Multiplayer", "Crime", "Open World", "Action"],
+    "about_game": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld.",
+    "requirements": {
+      "minimum": "OS: Win 10 64 Bit | CPU: Core 2 Quad Q6600 | RAM: 4GB | GPU: 9800 GT 1GB",
+      "recommended": "OS: Win 10 64 Bit | CPU: Core i5 3470 | RAM: 8GB | GPU: GTX 660 2GB"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Red Dead Redemption 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1174180/capsule_616x353.jpg",
+    "gallery": [
+      "https://images7.alphacoders.com/928/928424.jpg",
+      "https://images8.alphacoders.com/928/928425.jpg",
+      "https://images.alphacoders.com/928/928426.jpg",
+      "https://images2.alphacoders.com/928/928427.jpg",
+      "https://images3.alphacoders.com/928/928428.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/gmA6MrX81z4",
+    "old_price": "59.99",
+    "new_price": "19.79",
+    "discount": "67%",
+    "rating": 4.9,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "release_date": "December 5, 2019",
+    "categories": ["Action", "Adventure", "Open World", "Story-Rich"],
+    "tags": ["Western", "Story-Rich", "Masterpiece", "Open World"],
+    "about_game": "Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-2500K | RAM: 8GB | GPU: GTX 770 2GB",
+      "recommended": "OS: Win 10 | CPU: i7-4770K | RAM: 12GB | GPU: GTX 1060 6GB"
+    }
+  },
+  {
+    "id": 6,
+    "name": "God of War Ragnarök",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2322010/capsule_616x353.jpg",
+    "gallery": [
+      "https://images8.alphacoders.com/128/1287127.jpg",
+      "https://images.alphacoders.com/116/1168123.jpg",
+      "https://images2.alphacoders.com/116/1168124.jpg",
+      "https://images3.alphacoders.com/116/1168125.jpg",
+      "https://images4.alphacoders.com/116/1168126.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/hfJ4Km46A-0",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing LLC",
+    "developer": "Santa Monica Studio",
+    "release_date": "September 19, 2024",
+    "categories": ["Action", "Adventure RPG", "Story-Rich"],
+    "tags": ["Action", "God of War", "Mythology", "Story-Rich"],
+    "about_game": "Kratos and Atreus embark on a mythic journey for answers before the prophesied battle that will end the world.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-4670 | RAM: 8GB | GPU: GTX 1060 6GB",
+      "recommended": "OS: Win 11 | CPU: i7-7700K | RAM: 16GB | GPU: RTX 2070"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Spider-Man Remastered",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1817070/capsule_616x353.jpg",
+    "gallery": [
+      "https://images7.alphacoders.com/955/955091.jpg",
+      "https://images8.alphacoders.com/955/955092.jpg",
+      "https://images.alphacoders.com/955/955093.jpg",
+      "https://images2.alphacoders.com/955/955094.jpg",
+      "https://images3.alphacoders.com/955/955095.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/q4GdJVvdxko",
+    "old_price": "59.99",
+    "new_price": "35.99",
+    "discount": "40%",
+    "rating": 4.9,
+    "publisher": "PlayStation Publishing LLC",
+    "developer": "Insomniac Games",
+    "release_date": "August 12, 2022",
+    "categories": ["Action", "Open World", "Adventure"],
+    "tags": ["Superhero", "Action", "Open World", "Story-Rich"],
+    "about_game": "In Marvel’s Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-4160 | RAM: 8GB | GPU: GTX 950",
+      "recommended": "OS: Win 10 | CPU: i5-4670 | RAM: 16GB | GPU: GTX 1060 6GB"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hogwarts Legacy",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1460500/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/129/1296717.jpg",
+      "https://images6.alphacoders.com/129/1296718.jpg",
+      "https://images7.alphacoders.com/129/1296719.jpg",
+      "https://images8.alphacoders.com/129/1296720.jpg",
+      "https://images.alphacoders.com/129/1296721.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/1O6Q7DjbXK8",
+    "old_price": "59.99",
+    "new_price": "17.99",
+    "discount": "70%",
+    "rating": 4.6,
+    "publisher": "Warner Bros. Games",
+    "developer": "Avalanche Software",
+    "release_date": "February 10, 2023",
+    "categories": ["Open World", "Action Role-Playing", "Adventure RPG"],
+    "tags": ["Magic", "Wizarding World", "Open World", "Fantasy"],
+    "about_game": "Hogwarts Legacy is an open-world action RPG set in the world first introduced in the Harry Potter books.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-6600 | RAM: 16GB | GPU: GTX 960",
+      "recommended": "OS: Win 10 | CPU: i7-8700 | RAM: 16GB | GPU: 1080 Ti"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2215430/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/105/1058245.jpg",
+      "https://images2.alphacoders.com/105/1058246.jpg",
+      "https://images3.alphacoders.com/105/1058247.jpg",
+      "https://images4.alphacoders.com/105/1058248.jpg",
+      "https://images5.alphacoders.com/105/1058249.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/4pD3K8u7GzI",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing LLC",
+    "developer": "Sucker Punch Productions",
+    "release_date": "May 16, 2024",
+    "categories": ["Action", "Open World", "Adventure RPG"],
+    "tags": ["Samurai", "Open World", "Action", "Stealth"],
+    "about_game": "Forge a new path and wage an unconventional war for the freedom of Tsushima.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-7100 | RAM: 8GB | GPU: GTX 960 4GB",
+      "recommended": "OS: Win 10 | CPU: i5-8600 | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 10,
+    "name": "The Witcher 3: Wild Hunt",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/292030/capsule_616x353.jpg",
+    "gallery": [
+      "https://images6.alphacoders.com/593/593345.jpg",
+      "https://images7.alphacoders.com/593/593346.jpg",
+      "https://images8.alphacoders.com/593/593347.jpg",
+      "https://images.alphacoders.com/593/593348.jpg",
+      "https://images2.alphacoders.com/593/593349.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/XHrskkHf958",
+    "old_price": "39.99",
+    "new_price": "9.99",
+    "discount": "75%",
+    "rating": 4.9,
+    "publisher": "CD PROJEKT RED",
+    "developer": "CD PROJEKT RED",
+    "release_date": "May 18, 2015",
+    "categories": ["Open World", "RPG", "Action", "Story-Rich"],
+    "tags": ["RPG", "Masterpiece", "Story-Rich", "Open World"],
+    "about_game": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will.",
+    "requirements": {
+      "minimum": "OS: Win 7/8/10 | CPU: i5-2500K | RAM: 6GB | GPU: GTX 660",
+      "recommended": "OS: Win 7/8/10 | CPU: i7-3770 | RAM: 8GB | GPU: GTX 770"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Forza Horizon 5",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1551360/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/115/1152062.jpg",
+      "https://images2.alphacoders.com/115/1152063.jpg",
+      "https://images3.alphacoders.com/115/1152064.jpg",
+      "https://images4.alphacoders.com/115/1152065.jpg",
+      "https://images5.alphacoders.com/115/1152066.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+    "old_price": "59.99",
+    "new_price": "29.99",
+    "discount": "50%",
+    "rating": 4.8,
+    "publisher": "Xbox Game Studios",
+    "developer": "Playground Games",
+    "release_date": "November 9, 2021",
+    "categories": ["Racing", "Open World", "Simulation", "All Sports"],
+    "tags": ["Racing", "Open World", "Driving", "Multiplayer"],
+    "about_game": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-4460 | RAM: 8GB | GPU: GTX 760",
+      "recommended": "OS: Win 10 | CPU: i5-8400 | RAM: 16GB | GPU: GTX 1070"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Elden Ring: Shadow of the Erdtree",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2778580/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/135/1352466.jpg",
+      "https://images6.alphacoders.com/135/1352467.jpg",
+      "https://images7.alphacoders.com/135/1352468.jpg",
+      "https://images8.alphacoders.com/135/1352469.jpg",
+      "https://images.alphacoders.com/135/1352470.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/qLZenOn7WUo",
+    "old_price": "39.99",
+    "new_price": "39.99",
+    "discount": "0%",
+    "rating": 4.9,
+    "publisher": "Bandai Namco",
+    "developer": "FromSoftware",
+    "release_date": "June 21, 2024",
+    "categories": ["Action", "Role-Playing", "Dark Fantasy"],
+    "tags": ["Souls-like", "RPG", "Hard", "Dark Fantasy"],
+    "about_game": "The Shadow of the Erdtree expansion features an all-new story set in the Land of Shadow, imbued with mystery, perilous dungeons, and new enemies.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-8400 | RAM: 12GB | GPU: GTX 1060 3GB",
+      "recommended": "OS: Win 11 | CPU: i7-8700K | RAM: 16GB | GPU: GTX 1070"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mortal Kombat 1",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1971870/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/131/1318241.jpg",
+      "https://images2.alphacoders.com/131/1318242.jpg",
+      "https://images3.alphacoders.com/131/1318243.jpg",
+      "https://images4.alphacoders.com/131/1318244.jpg",
+      "https://images5.alphacoders.com/131/1318245.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/P_P8L_W3l5k",
+    "old_price": "69.99",
+    "new_price": "34.99",
+    "discount": "50%",
+    "rating": 4.4,
+    "publisher": "Warner Bros. Games",
+    "developer": "NetherRealm Studios",
+    "release_date": "September 19, 2023",
+    "categories": ["Fighting", "Action"],
+    "tags": ["Fighting", "Gore", "2D Fighter", "Multiplayer"],
+    "about_game": "Discover a reborn Mortal Kombat Universe created by the Fire God Liu Kang. Mortal Kombat 1 ushers in a new era of the iconic franchise!",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-6600 | RAM: 8GB | GPU: GTX 980",
+      "recommended": "OS: Win 11 | CPU: i5-8400 | RAM: 8GB | GPU: GTX 1080 Ti"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Resident Evil 4",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2050650/capsule_616x353.jpg",
+    "gallery": [
+      "https://images6.alphacoders.com/123/1238471.jpg",
+      "https://images7.alphacoders.com/123/1238472.jpg",
+      "https://images8.alphacoders.com/123/1238473.jpg",
+      "https://images.alphacoders.com/123/1238474.jpg",
+      "https://images2.alphacoders.com/123/1238475.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/j5Xv2lM9SNo",
+    "old_price": "39.99",
+    "new_price": "19.99",
+    "discount": "50%",
+    "rating": 4.9,
+    "publisher": "CAPCOM Co., Ltd.",
+    "developer": "CAPCOM Co., Ltd.",
+    "release_date": "March 24, 2023",
+    "categories": ["Horror", "Action", "Adventure"],
+    "tags": ["Survival Horror", "Horror", "Action", "Zombies"],
+    "about_game": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy tracks the president's kidnapped daughter to a secluded European village.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: Ryzen 3 1200 | RAM: 8GB | GPU: RX 560 4GB",
+      "recommended": "OS: Win 11 | CPU: i7-8700 | RAM: 16GB | GPU: GTX 1070"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Starfield",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1716740/capsule_616x353.jpg",
+    "gallery": [
+      "https://images3.alphacoders.com/115/1151654.jpg",
+      "https://images4.alphacoders.com/115/1151655.jpg",
+      "https://images5.alphacoders.com/115/1151656.jpg",
+      "https://images6.alphacoders.com/115/1151657.jpg",
+      "https://images7.alphacoders.com/115/1151658.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/pYqyVpCV-3c",
+    "old_price": "69.99",
+    "new_price": "46.89",
+    "discount": "33%",
+    "rating": 4.0,
+    "publisher": "Bethesda Softworks",
+    "developer": "Bethesda Game Studios",
+    "release_date": "September 6, 2023",
+    "categories": ["Sci-Fi & Cyberpunk", "Space", "Open World", "RPG"],
+    "tags": ["Space", "Open World", "RPG", "Sci-Fi"],
+    "about_game": "Starfield is the first new universe in 25 years from Bethesda Game Studios. Create any character you want and explore with unparalleled freedom.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i7-6800K | RAM: 16GB | GPU: GTX 1070 Ti",
+      "recommended": "OS: Win 11 | CPU: i5-10600K | RAM: 16GB | GPU: RTX 2080"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Assassin's Creed Valhalla",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2208920/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/106/1068936.jpg",
+      "https://images2.alphacoders.com/106/1068937.jpg",
+      "https://images3.alphacoders.com/106/1068938.jpg",
+      "https://images4.alphacoders.com/106/1068939.jpg",
+      "https://images5.alphacoders.com/106/1068940.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/L0Fr3cG27f0",
+    "old_price": "59.99",
+    "new_price": "14.99",
+    "discount": "75%",
+    "rating": 4.3,
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal",
+    "release_date": "December 6, 2022",
+    "categories": ["Action", "Adventure RPG", "Open World"],
+    "tags": ["Vikings", "Open World", "RPG", "Assassin"],
+    "about_game": "Become a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies and grow your settlement.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: Ryzen 3 1200 | RAM: 8GB | GPU: GTX 960",
+      "recommended": "OS: Win 10 | CPU: i7-6700 | RAM: 8GB | GPU: GTX 1080"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Horizon Zero Dawn Complete Edition",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1151640/capsule_616x353.jpg",
+    "gallery": [
+      "https://images7.alphacoders.com/805/805726.jpg",
+      "https://images8.alphacoders.com/805/805727.jpg",
+      "https://images.alphacoders.com/805/805728.jpg",
+      "https://images2.alphacoders.com/805/805729.jpg",
+      "https://images3.alphacoders.com/805/805730.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/wzx96gYA8ek",
+    "old_price": "49.99",
+    "new_price": "12.49",
+    "discount": "75%",
+    "rating": 4.8,
+    "publisher": "PlayStation Publishing LLC",
+    "developer": "Guerrilla",
+    "release_date": "August 7, 2020",
+    "categories": ["Open World", "Action Role-Playing", "Sci-Fi & Cyberpunk"],
+    "tags": ["Open World", "Sci-Fi", "Female Protagonist", "RPG"],
+    "about_game": "Experience Aloy’s entire legendary quest to unravel the mysteries of a world ruled by deadly Machines.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-2500K | RAM: 8GB | GPU: GTX 780 3GB",
+      "recommended": "OS: Win 10 | CPU: i7-4770K | RAM: 16GB | GPU: GTX 1060 6GB"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Dying Light 2 Stay Human",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/534380/capsule_616x353.jpg",
+    "gallery": [
+      "https://images4.alphacoders.com/115/1151591.jpg",
+      "https://images5.alphacoders.com/115/1151592.jpg",
+      "https://images6.alphacoders.com/115/1151593.jpg",
+      "https://images7.alphacoders.com/115/1151594.jpg",
+      "https://images8.alphacoders.com/115/1151595.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/2MD4gTitmzw",
+    "old_price": "59.99",
+    "new_price": "23.99",
+    "discount": "60%",
+    "rating": 4.5,
+    "publisher": "Techland",
+    "developer": "Techland",
+    "release_date": "February 4, 2022",
+    "categories": ["Horror", "Action", "Open World"],
+    "tags": ["Zombies", "Parkour", "Open World", "Co-op"],
+    "about_game": "The virus won and civilization has fallen back to the Dark Ages. Use your agility and combat skills to survive and reshape the world.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-9100 | RAM: 8GB | GPU: GTX 1050 Ti",
+      "recommended": "OS: Win 10 | CPU: i5-8600K | RAM: 16GB | GPU: RTX 2060"
+    }
+  }
+  {
+    "id": 19,
+    "name": "Counter-Strike 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/730/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/133/1331003.jpeg",
+      "https://images2.alphacoders.com/133/1331005.jpeg",
+      "https://images.alphacoders.com/133/1331006.jpeg",
+      "https://images3.alphacoders.com/133/1331007.jpeg",
+      "https://images4.alphacoders.com/133/1331008.jpeg"
+    ],
+    "video": "https://www.youtube.com/embed/n7ZpWvQ_V78",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.5,
+    "publisher": "Valve",
+    "developer": "Valve",
+    "release_date": "September 27, 2023",
+    "categories": ["Action", "Free to Play", "Fighting"],
+    "tags": ["FPS", "Multiplayer", "Competitive", "Tactical"],
+    "about_game": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: 4 thread Intel Core i5 | RAM: 8GB | GPU: GTX 660",
+      "recommended": "OS: Win 11 | CPU: i7-9700K | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Destiny 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1085660/capsule_616x353.jpg",
+    "gallery": [
+      "https://images7.alphacoders.com/831/831523.jpg",
+      "https://images8.alphacoders.com/831/831524.jpg",
+      "https://images.alphacoders.com/831/831525.jpg",
+      "https://images2.alphacoders.com/831/831526.jpg",
+      "https://images3.alphacoders.com/831/831527.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/6iOllmU6vA0",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.3,
+    "publisher": "Bungie",
+    "developer": "Bungie",
+    "release_date": "October 1, 2019",
+    "categories": ["Free to Play", "Sci-Fi & Cyberpunk", "Space", "Action"],
+    "tags": ["FPS", "Looter Shooter", "MMO", "Sci-Fi"],
+    "about_game": "Dive into the world of Destiny 2 to explore the mysteries of the solar system and experience responsive first-person shooter combat.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-3250 | RAM: 6GB | GPU: GTX 660",
+      "recommended": "OS: Win 10 | CPU: i5-2400 | RAM: 8GB | GPU: GTX 970"
+    }
+  },
+  {
+    "id": 21,
+    "name": "The First Descendant",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2074920/capsule_616x353.jpg",
+    "gallery": [
+      "https://images3.alphacoders.com/135/1351234.jpg",
+      "https://images4.alphacoders.com/135/1351235.jpg",
+      "https://images5.alphacoders.com/135/1351236.jpg",
+      "https://images6.alphacoders.com/135/1351237.jpg",
+      "https://images7.alphacoders.com/135/1351238.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/V6W3J-fB08o",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.2,
+    "publisher": "NEXON",
+    "developer": "NEXON Games",
+    "release_date": "July 2, 2024",
+    "categories": ["Free to Play", "Action", "Co-Operative", "RPG"],
+    "tags": ["Looter Shooter", "Third-Person Shooter", "Co-op"],
+    "about_game": "The First Descendant is a free-to-play third-person cooperative action RPG shooter with high-quality graphics.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-3570 | RAM: 8GB | GPU: GTX 1050 Ti",
+      "recommended": "OS: Win 11 | CPU: i7-7700K | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 22,
+    "name": "PUBG: BATTLEGROUNDS",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/578080/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/832/832714.jpg",
+      "https://images2.alphacoders.com/832/832715.jpg",
+      "https://images3.alphacoders.com/832/832716.jpg",
+      "https://images4.alphacoders.com/832/832717.jpg",
+      "https://images5.alphacoders.com/832/832718.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/u1ovZ6fT-2Q",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.0,
+    "publisher": "KRAFTON",
+    "developer": "KRAFTON",
+    "release_date": "December 21, 2017",
+    "categories": ["Free to Play", "Action", "Fighting", "Survival"],
+    "tags": ["Battle Royale", "Survival", "Multiplayer", "Shooter"],
+    "about_game": "Land, loot, and outwit your opponents to become the last survivor in a thrilling game experience full of unexpected moments.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i5-4430 | RAM: 8GB | GPU: GTX 960",
+      "recommended": "OS: Win 10 | CPU: i5-6600K | RAM: 16GB | GPU: GTX 1060"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Marvel's Spider-Man 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2651280/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/131/1314227.jpg",
+      "https://images6.alphacoders.com/131/1314228.jpg",
+      "https://images7.alphacoders.com/131/1314229.jpg",
+      "https://images8.alphacoders.com/131/1314230.jpg",
+      "https://images.alphacoders.com/131/1314231.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/9fVvY6vXFfM",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing LLC",
+    "developer": "Insomniac Games",
+    "release_date": "January 30, 2025",
+    "categories": ["Action", "Open World", "Adventure"],
+    "tags": ["Superhero", "Action", "Open World", "Singleplayer"],
+    "about_game": "Peter Parker and Miles Morales return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-8100 | RAM: 16GB | GPU: RTX 2060",
+      "recommended": "OS: Win 11 | CPU: i5-11600K | RAM: 16GB | GPU: RTX 3070"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Warframe",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/230410/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/134/1345678.jpg",
+      "https://images2.alphacoders.com/134/1345679.jpg",
+      "https://images3.alphacoders.com/134/1345680.jpg",
+      "https://images4.alphacoders.com/134/1345681.jpg",
+      "https://images5.alphacoders.com/134/1345682.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/VpXAsG_8nI4",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.7,
+    "publisher": "Digital Extremes",
+    "developer": "Digital Extremes",
+    "release_date": "March 25, 2013",
+    "categories": ["Free to Play", "Action", "Sci-Fi & Cyberpunk", "Co-Operative"],
+    "tags": ["Action", "RPG", "Space", "Ninja"],
+    "about_game": "Confront warring factions throughout a sprawling interplanetary system in this free-to-play third-person action game.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: Intel Core i7-6700 | RAM: 8GB | GPU: GTX 1060",
+      "recommended": "OS: Win 11 | CPU: i7-10700 | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Apex Legends",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1237970/capsule_616x353.jpg",
+    "gallery": [
+      "https://images8.alphacoders.com/985/985340.jpg",
+      "https://images.alphacoders.com/985/985341.jpg",
+      "https://images2.alphacoders.com/985/985342.jpg",
+      "https://images3.alphacoders.com/985/985343.jpg",
+      "https://images4.alphacoders.com/985/985344.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/oQtHENM_GZU",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.6,
+    "publisher": "Electronic Arts",
+    "developer": "Respawn Entertainment",
+    "release_date": "November 4, 2020",
+    "categories": ["Free to Play", "Action", "Fighting"],
+    "tags": ["Battle Royale", "Multiplayer", "Shooter", "FPS"],
+    "about_game": "Master an ever-growing roster of legendary characters with powerful abilities and experience strategic squad play.",
+    "requirements": {
+      "minimum": "OS: Win 10 | CPU: i3-6300 | RAM: 6GB | GPU: GT 640",
+      "recommended": "OS: Win 10 | CPU: i5-6600K | RAM: 8GB | GPU: GTX 970"
+    }
+  }
 ]
