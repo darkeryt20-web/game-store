@@ -1,3 +1,27 @@
-{
-  
-}
+[
+  {
+    "id": "vpn-001",
+    "name": "SXD Free Stealth",
+    "tier": "Free",
+    "protocols": ["WireGuard", "OpenVPN"],
+    "locations": [
+      {"city": "Singapore", "flag": "🇸🇬", "latency": "45ms"},
+      {"city": "Tokyo", "flag": "🇯🇵", "latency": "60ms"}
+    ],
+    "config_payload": "### SXD FREE CONFIG ###\nCLIENT_ID=FREE_USER_99\nENDPOINT=sg-free.sxd-vpn.com\nPORT=51820\nAUTH=AD_SUPPORTED\n#######################",
+    "is_active": true
+  },
+  {
+    "id": "vpn-002",
+    "name": "SXD Premium Pro",
+    "tier": "Premium",
+    "protocols": ["WireGuard", "Shadowsocks", "OpenVPN"],
+    "locations": [
+      {"city": "New York", "flag": "🇺🇸", "latency": "12ms"},
+      {"city": "London", "flag": "🇬🇧", "latency": "15ms"},
+      {"city": "Frankfurt", "flag": "🇩🇪", "latency": "18ms"}
+    ],
+    "config_payload": "### SXD PREMIUM PRO ###\nUSER_TOKEN=SECURE_AUTH_XXXX\nENDPOINT=us-premium.sxd-vpn.com\nENCRYPTION=AES-256-GCM\nPORT=443\n#######################",
+    "is_active": true
+  }
+]
