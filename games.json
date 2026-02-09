@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "SatisFactory",
-    "main_image": "https://gaming-cdn.com/images/products/4229/orig/satisfactory-pc-game-steam-cover.jpg?v=1748861754",
+    "name": "Black Myth: Wukong",
+    "main_image": "https://gaming-cdn.com/images/products/black-myth-wukong-cover.jpg",
     "gallery": [
       "https://images5.alphacoders.com/133/1338666.png",
       "https://images.alphacoders.com/133/1339670.jpeg",
@@ -13,7 +13,7 @@
     "video": "https://www.youtube.com/embed/qY2v_p_pS-k",
     "old_price": "69.99",
     "new_price": "59.99",
-    "discount": "15%",
+    "discount": "14%",
     "rating": 5.0,
     "publisher": "Game Science",
     "developer": "Game Science",
@@ -25,5 +25,5 @@
       "minimum": "OS: Windows 10 | CPU: i5-8400 | RAM: 16GB | GPU: GTX 1060 6GB",
       "recommended": "OS: Windows 11 | CPU: i7-9700 | RAM: 32GB | GPU: RTX 2060"
     }
- },
+  }
 ]
