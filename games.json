@@ -26,31 +26,4 @@
       "recommended": "OS: Windows 11 | CPU: i7-9700 | RAM: 32GB | GPU: RTX 2060"
     }
  },
-  {
-    "id": 2,
-    "name": "Black Myth: Wukong",
-    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2358720/capsule_616x353.jpg",
-    "gallery": [
-      "https://images5.alphacoders.com/133/1338666.png",
-      "https://images.alphacoders.com/133/1339670.jpeg",
-      "https://images3.alphacoders.com/133/1339671.jpg",
-      "https://images7.alphacoders.com/133/1339672.jpg",
-      "https://images8.alphacoders.com/133/1339673.jpg"
-    ],
-    "video": "https://www.youtube.com/embed/qY2v_p_pS-k",
-    "old_price": "69.99",
-    "new_price": "59.99",
-    "discount": "15%",
-    "rating": 5.0,
-    "publisher": "Game Science",
-    "developer": "Game Science",
-    "release_date": "August 20, 2024",
-    "categories": ["Action Role-Playing", "Adventure RPG", "Story-Rich"],
-    "tags": ["Action", "RPG", "Souls-like", "Mythology"],
-    "about_game": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead.",
-    "requirements": {
-      "minimum": "OS: Windows 10 | CPU: i5-8400 | RAM: 16GB | GPU: GTX 1060 6GB",
-      "recommended": "OS: Windows 11 | CPU: i7-9700 | RAM: 32GB | GPU: RTX 2060"
-    }
-  }
 ]
