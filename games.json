@@ -1,29 +1,272 @@
 [
-{
-  "id": 1,
-  "name": "Black Myth: Wukong",
-  "main_image": "https://shared.akamai.steamstatic.com/store_apps/2358720/capsule_616x353.jpg",
-  "gallery": [
-    "https://images5.alphacoders.com/133/1338666.png",
-    "https://images.alphacoders.com/133/1339670.jpeg",
-    "https://images3.alphacoders.com/133/1339671.jpg",
-    "https://images7.alphacoders.com/133/1339672.jpg",
-    "https://images8.alphacoders.com/133/1339673.jpg"
-  ],
-  "video": "https://www.youtube.com/embed/qY2v_p_pS-k",
-  "old_price": "21,500.00",
-  "new_price": "18,250.00",
-  "discount": "15%",
-  "rating": 5.0,
-  "publisher": "Game Science",
-  "developer": "Game Science",
-  "release_date": "August 20, 2024",
-  "categories": ["Action", "RPG", "Adventure", "Souls-like"],
-  "tags": ["Action RPG", "Mythology", "Singleplayer", "Difficult"],
-  "about_game": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past.",
-  "requirements": {
-    "minimum": "OS: Windows 10 (64-bit) | CPU: Core i5-8400 / Ryzen 5 1600 | RAM: 16 GB | GPU: GTX 1060 / RX 580",
-    "recommended": "OS: Windows 10/11 (64-bit) | CPU: Core i7-9700 / Ryzen 5 3600 | RAM: 32 GB | GPU: RTX 2060 / RX 5700 XT"
+  {
+    "id": 1,
+    "name": "Black Myth: Wukong",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2358720/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/133/1338666.png",
+      "https://images.alphacoders.com/133/1339670.jpeg",
+      "https://images3.alphacoders.com/133/1339671.jpg",
+      "https://images7.alphacoders.com/133/1339672.jpg",
+      "https://images8.alphacoders.com/133/1339673.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/qY2v_p_pS-k",
+    "old_price": "69.99",
+    "new_price": "59.99",
+    "discount": "15%",
+    "rating": 5.0,
+    "publisher": "Game Science",
+    "developer": "Game Science",
+    "release_date": "August 20, 2024",
+    "categories": ["Action Role-Playing", "Adventure RPG", "Story-Rich"],
+    "tags": ["Action", "RPG", "Souls-like", "Mythology"],
+    "about_game": "Black Myth: Wukong is an action RPG rooted in Chinese mythology. You shall set out as the Destined One to venture into the challenges and marvels ahead.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-8400 | RAM: 16GB | GPU: GTX 1060 6GB",
+      "recommended": "OS: Windows 11 | CPU: i7-9700 | RAM: 32GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cyberpunk 2077",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1091500/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/128/1287134.jpg",
+      "https://images2.alphacoders.com/111/1117562.jpg",
+      "https://images4.alphacoders.com/111/1117563.jpg",
+      "https://images5.alphacoders.com/111/1117564.jpg",
+      "https://images6.alphacoders.com/111/1117565.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/P9K_ll_Uf6k",
+    "old_price": "59.99",
+    "new_price": "29.99",
+    "discount": "50%",
+    "rating": 4.8,
+    "publisher": "CD PROJEKT RED",
+    "developer": "CD PROJEKT RED",
+    "release_date": "December 10, 2020",
+    "categories": ["Sci-Fi & Cyberpunk", "Open World", "Action"],
+    "tags": ["RPG", "Sci-Fi", "Futuristic", "Masterpiece"],
+    "about_game": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i7-6700 | RAM: 12GB | GPU: GTX 1060 6GB",
+      "recommended": "OS: Windows 11 | CPU: i7-12700 | RAM: 16GB | GPU: RTX 3060"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Elden Ring",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1245620/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/115/1151249.jpg",
+      "https://images8.alphacoders.com/121/1218962.jpg",
+      "https://images.alphacoders.com/115/1151250.jpg",
+      "https://images2.alphacoders.com/115/1151251.jpg",
+      "https://images3.alphacoders.com/115/1151252.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/E3Huy2cdih0",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 4.9,
+    "publisher": "Bandai Namco",
+    "developer": "FromSoftware",
+    "release_date": "February 25, 2022",
+    "categories": ["Open World", "Role-Playing", "Action"],
+    "tags": ["Hard", "Souls-like", "Dark Fantasy", "Adventure"],
+    "about_game": "Rise, Tarnished, and let grace guide you to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-8400 | RAM: 12GB | GPU: GTX 1060 3GB",
+      "recommended": "OS: Windows 11 | CPU: i7-8700K | RAM: 16GB | GPU: GTX 1070"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Grand Theft Auto V",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/271590/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/465/465243.jpg",
+      "https://images2.alphacoders.com/465/465244.jpg",
+      "https://images3.alphacoders.com/465/465245.jpg",
+      "https://images4.alphacoders.com/465/465246.jpg",
+      "https://images5.alphacoders.com/465/465247.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+    "old_price": "29.99",
+    "new_price": "14.99",
+    "discount": "50%",
+    "rating": 4.7,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "release_date": "September 17, 2013",
+    "categories": ["Action", "Open World", "Simulation"],
+    "tags": ["Multiplayer", "Crime", "Open World", "Action"],
+    "about_game": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with the criminal underworld.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: Core 2 Quad Q6600 | RAM: 4GB | GPU: 9800 GT 1GB",
+      "recommended": "OS: Windows 10 | CPU: Core i5 3470 | RAM: 8GB | GPU: GTX 660 2GB"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Red Dead Redemption 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1174180/capsule_616x353.jpg",
+    "gallery": [
+      "https://images7.alphacoders.com/928/928424.jpg",
+      "https://images8.alphacoders.com/928/928425.jpg",
+      "https://images.alphacoders.com/928/928426.jpg",
+      "https://images2.alphacoders.com/928/928427.jpg",
+      "https://images3.alphacoders.com/928/928428.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/gmA6MrX81z4",
+    "old_price": "59.99",
+    "new_price": "19.79",
+    "discount": "67%",
+    "rating": 4.9,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "release_date": "December 5, 2019",
+    "categories": ["Action", "Adventure", "Open World", "Story-Rich"],
+    "tags": ["Western", "Story-Rich", "Masterpiece", "Atmospheric"],
+    "about_game": "America, 1899. Arthur Morgan and the Van der Linde gang are outlaws on the run.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-2500K | RAM: 8GB | GPU: GTX 770 2GB",
+      "recommended": "OS: Windows 10 | CPU: i7-4770K | RAM: 12GB | GPU: GTX 1060 6GB"
+    }
+  },
+  {
+    "id": 6,
+    "name": "God of War Ragnarök",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2322010/capsule_616x353.jpg",
+    "gallery": [
+      "https://images8.alphacoders.com/128/1287127.jpg",
+      "https://images.alphacoders.com/116/1168123.jpg",
+      "https://images2.alphacoders.com/116/1168124.jpg",
+      "https://images3.alphacoders.com/116/1168125.jpg",
+      "https://images4.alphacoders.com/116/1168126.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/hfJ4Km46A-0",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing",
+    "developer": "Santa Monica Studio",
+    "release_date": "September 19, 2024",
+    "categories": ["Action", "Adventure RPG", "Story-Rich"],
+    "tags": ["Mythology", "Action", "Singleplayer", "Emotional"],
+    "about_game": "Kratos and Atreus embark on a mythic journey for answers before the prophesied battle that will end the world.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-4670 | RAM: 8GB | GPU: GTX 1060 6GB",
+      "recommended": "OS: Windows 11 | CPU: i7-7700K | RAM: 16GB | GPU: RTX 2070"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Counter-Strike 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/730/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/133/1331003.jpeg",
+      "https://images2.alphacoders.com/133/1331005.jpeg",
+      "https://images.alphacoders.com/133/1331006.jpeg",
+      "https://images3.alphacoders.com/133/1331007.jpeg",
+      "https://images4.alphacoders.com/133/1331008.jpeg"
+    ],
+    "video": "https://www.youtube.com/embed/n7ZpWvQ_V78",
+    "old_price": "0.00",
+    "new_price": "0.00",
+    "discount": "FREE",
+    "rating": 4.5,
+    "publisher": "Valve",
+    "developer": "Valve",
+    "release_date": "September 27, 2023",
+    "categories": ["Action", "Free to Play", "Fighting"],
+    "tags": ["FPS", "Competitive", "Multiplayer", "Tactical"],
+    "about_game": "For over two decades, Counter-Strike has offered an elite competitive experience shaped by millions of players.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: 4 thread Intel Core i5 | RAM: 8GB | GPU: GTX 660",
+      "recommended": "OS: Windows 11 | CPU: i7-9700K | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hogwarts Legacy",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1460500/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/129/1296717.jpg",
+      "https://images6.alphacoders.com/129/1296718.jpg",
+      "https://images7.alphacoders.com/129/1296719.jpg",
+      "https://images8.alphacoders.com/129/1296720.jpg",
+      "https://images.alphacoders.com/129/1296721.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/1O6Q7DjbXK8",
+    "old_price": "59.99",
+    "new_price": "17.99",
+    "discount": "70%",
+    "rating": 4.6,
+    "publisher": "Warner Bros. Games",
+    "developer": "Avalanche Software",
+    "release_date": "February 10, 2023",
+    "categories": ["Open World", "Action Role-Playing", "Adventure RPG"],
+    "tags": ["Magic", "Fantasy", "Open World", "Harry Potter"],
+    "about_game": "Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-6600 | RAM: 16GB | GPU: GTX 960",
+      "recommended": "OS: Windows 10 | CPU: i7-8700 | RAM: 16GB | GPU: 1080 Ti"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ghost of Tsushima",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2215430/capsule_616x353.jpg",
+    "gallery": [
+      "https://images.alphacoders.com/105/1058245.jpg",
+      "https://images2.alphacoders.com/105/1058246.jpg",
+      "https://images3.alphacoders.com/105/1058247.jpg",
+      "https://images4.alphacoders.com/105/1058248.jpg",
+      "https://images5.alphacoders.com/105/1058249.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/4pD3K8u7GzI",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing",
+    "developer": "Sucker Punch",
+    "release_date": "May 16, 2024",
+    "categories": ["Action", "Open World", "Adventure RPG"],
+    "tags": ["Samurai", "Open World", "Stealth", "Action"],
+    "about_game": "In the late 13th century, the Mongol empire has laid waste to entire nations throughout their campaign to conquer the East.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i3-7100 | RAM: 8GB | GPU: GTX 960 4GB",
+      "recommended": "OS: Windows 10 | CPU: i5-8600 | RAM: 16GB | GPU: RTX 2060"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Marvel's Spider-Man 2",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/2651280/capsule_616x353.jpg",
+    "gallery": [
+      "https://images5.alphacoders.com/131/1314227.jpg",
+      "https://images6.alphacoders.com/131/1314228.jpg",
+      "https://images7.alphacoders.com/131/1314229.jpg",
+      "https://images8.alphacoders.com/131/1314230.jpg",
+      "https://images.alphacoders.com/131/1314231.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/9fVvY6vXFfM",
+    "old_price": "59.99",
+    "new_price": "59.99",
+    "discount": "0%",
+    "rating": 5.0,
+    "publisher": "PlayStation Publishing",
+    "developer": "Insomniac Games",
+    "release_date": "January 30, 2025",
+    "categories": ["Action", "Open World", "Adventure"],
+    "tags": ["Superhero", "Action", "Parkour", "Singleplayer"],
+    "about_game": "Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man franchise.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i3-8100 | RAM: 16GB | GPU: RTX 2060",
+      "recommended": "OS: Windows 11 | CPU: i5-11600K | RAM: 16GB | GPU: RTX 3070"
+    }
   }
-}
 ]
