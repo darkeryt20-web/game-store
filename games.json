@@ -1,60 +1,272 @@
-  [
+[
   {
     "id": 1,
-    "name": "GTA V (Grand Theft Auto V)",
-    "main_image": "https://shared.akamai.steamstatic.com/store_apps/271590/header.jpg",
+    "name": "GTA V",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
     "gallery": [
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_e1503c.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_840f34.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_26046e.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_40a45b.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_f8f87b.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_37a1a3.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_70404a.jpg"
+      "https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_840f34d19385b2111818804961556396f642456a.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_40a45ba1a6b0c2a21e06d9972c8421c60a28f8f2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg"
     ],
     "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
-    "old_price": "8,800.00",
+    "old_price": "8,500.00",
     "new_price": "5,500.00",
-    "discount": "38%",
     "rating": 4.8,
-    "publisher": "Rockstar Games",
-    "developer": "Rockstar North",
-    "release_date": "April 14, 2015",
-    "categories": ["Action", "Open World", "Crime"],
-    "tags": ["Multiplayer", "Third-Person", "Heist"],
-    "about_game": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening elements of the criminal underworld, they must pull off a series of dangerous heists to survive in a ruthless city.",
-    "requirements": {
-      "minimum": "OS: Windows 10 | CPU: Intel Core 2 Quad Q6600 | RAM: 8GB | GPU: NVIDIA 9800 GT | Storage: 110 GB",
-      "recommended": "OS: Windows 11 | CPU: Intel Core i5 3470 | RAM: 16GB | GPU: NVIDIA GTX 660"
-    }
+    "about_game": "Open world crime epic set in Los Santos.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 110GB" }
   },
   {
     "id": 2,
     "name": "Far Cry 6",
-    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1203630/header.jpg",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203630/header.jpg",
     "gallery": [
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_374829.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_26e828.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_67451a.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_49320e.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_50567a.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_60237e.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_6b1e6a.jpg"
+      "https://cdn.akamai.steamstatic.com/steam/apps/1203630/ss_3748297b8332960683a48e652d3a391515286576.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1203630/ss_26e8284534f3c05f039327d6d3ef374a441712a3.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1203630/ss_67451a37c449551c6e6df63303d82a6f97f7423d.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1203630/ss_49320e8b23c9e658bc602d3343a41951598f82f2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1203630/ss_50567a99268f6d8995a0980c6552277e923835e3.1920x1080.jpg"
     ],
     "video": "https://www.youtube.com/embed/-IjuH_R1pNM",
-    "old_price": "18,500.00",
+    "old_price": "18,000.00",
     "new_price": "3,000.00",
-    "discount": "84%",
     "rating": 4.4,
-    "publisher": "Ubisoft",
-    "developer": "Ubisoft Toronto",
-    "release_date": "October 7, 2021",
-    "categories": ["Action", "FPS", "Adventure"],
-    "tags": ["Open World", "Guerilla Warfare", "Co-op"],
-    "about_game": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Antón Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their oppressive rule has ignited a revolution.",
-    "requirements": {
-      "minimum": "OS: Windows 10 | CPU: AMD Ryzen 3 1200 | RAM: 8GB | GPU: AMD RX 460 | Storage: 60 GB",
-      "recommended": "OS: Windows 11 | CPU: AMD Ryzen 5 3600X | RAM: 16GB | GPU: NVIDIA GTX 1080"
-    }
+    "about_game": "Join the revolution in the tropical paradise of Yara.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 60GB" }
+  },
+  {
+    "id": 3,
+    "name": "Green Hell",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/815370/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/815370/ss_6086f675662758f192b1b3699c278065f49e0f63.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/815370/ss_614b7875952d7e82b7f0e9324021293375836485.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/815370/ss_07204fc7d18873f4e2f89b703e83916960309903.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/815370/ss_41695c010c226966f97c0f9947702896568853b0.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/815370/ss_b831639d6738d22791690562e6669917d0c75c88.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/8itY_zS0M6A",
+    "old_price": "5,500.00",
+    "new_price": "400.00",
+    "rating": 4.6,
+    "about_game": "Survival in the Amazon rainforest.",
+    "requirements": { "minimum": "RAM: 4GB | Storage: 8GB" }
+  },
+  {
+    "id": 4,
+    "name": "Terraria",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_84469d7759d57788448373305a41785502693766.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_3702e5f57343469a8497e74272183e979d395a12.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_963b6f007137f8f903823f66858a74e142b7810b.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_7c8d9a4563a620025f385177a6713833d745a6c1.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_074902ed2f08581692290f6b432a5df600b213c4.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/w7uOhFTrqpE",
+    "old_price": "3,000.00",
+    "new_price": "100.00",
+    "rating": 4.9,
+    "about_game": "Dig, fight, explore, build in a 2D world.",
+    "requirements": { "minimum": "RAM: 2GB | Storage: 0.2GB" }
+  },
+  {
+    "id": 5,
+    "name": "Red Dead Redemption 2",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_6f018d451a37bc8634e5659858688435d840a775.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_991f810777e387037e8346e917d59cf065b252df.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_50337c8e9668f44d85207797825b9024840e6dfb.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_699564177d018712395d851c0458df8a71992fca.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_2b69f697669d72496a793a3f656799f2425b0f55.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/eaW0tYpxn0o",
+    "old_price": "12,000.00",
+    "new_price": "7,500.00",
+    "rating": 4.9,
+    "about_game": "An epic tale of life in America’s unforgiving heartland.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 150GB" }
+  },
+  {
+    "id": 6,
+    "name": "The Witcher 3: Wild Hunt",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_1079979963e6e8851f5e88df0a31623194017606.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_6424383a8b408c028829910e53a51f33f6a27e02.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_7c8d9a4563a620025f385177a6713833d745a6c1.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_963b6f007137f8f903823f66858a74e142b7810b.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_074902ed2f08581692290f6b432a5df600b213c4.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/XHrskkHf958",
+    "old_price": "8,000.00",
+    "new_price": "2,500.00",
+    "rating": 4.9,
+    "about_game": "Become a monster slayer for hire in a vast open world.",
+    "requirements": { "minimum": "RAM: 6GB | Storage: 50GB" }
+  },
+  {
+    "id": 7,
+    "name": "Cyberpunk 2077",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/P9K55Scyqno",
+    "old_price": "15,000.00",
+    "new_price": "3,500.00",
+    "rating": 4.5,
+    "about_game": "An open-world action-adventure RPG set in Night City.",
+    "requirements": { "minimum": "RAM: 12GB | Storage: 70GB" }
+  },
+  {
+    "id": 8,
+    "name": "Resident Evil Village",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1196590/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1196590/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1196590/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1196590/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1196590/ss_40a45ba1a6b0c2a21e06d9972c8421c60a28f8f2.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/OK3C_T-8Vl0",
+    "old_price": "10,000.00",
+    "new_price": "2,500.00",
+    "rating": 4.8,
+    "about_game": "Survival horror in a mysterious European village.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 50GB" }
+  },
+  {
+    "id": 9,
+    "name": "Elden Ring",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/E3Huy2cdih0",
+    "old_price": "14,000.00",
+    "new_price": "3,000.00",
+    "rating": 4.9,
+    "about_game": "Rise, Tarnished, and be guided by grace to become an Elden Lord.",
+    "requirements": { "minimum": "RAM: 12GB | Storage: 60GB" }
+  },
+  {
+    "id": 10,
+    "name": "Forza Horizon 5",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+    "old_price": "16,000.00",
+    "new_price": "5,500.00",
+    "rating": 4.7,
+    "about_game": "Your ultimate Horizon adventure awaits!",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 110GB" }
+  },
+  {
+    "id": 11,
+    "name": "Visage",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/594330/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/594330/ss_84f98e096f8c74033b00676451e048386f68541a.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/594330/ss_923835e36552277e923835e36552277e923835e3.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/594330/ss_60237e1276707476839b252119e71e54911d7311.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/594330/ss_6b1e6af728e833b378129e1c2e3532f483b8a923.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/594330/ss_26e8284534f3c05f039327d6d3ef374a441712a3.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/V6S6Fv_m_Uo",
+    "old_price": "7,000.00",
+    "new_price": "500.00",
+    "rating": 4.5,
+    "about_game": "Psychological horror set in a haunted house.",
+    "requirements": { "minimum": "RAM: 6GB | Storage: 10GB" }
+  },
+  {
+    "id": 12,
+    "name": "Far Cry 3",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/220240/ss_872780e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/220240/ss_26e8284534f3c05f039327d6d3ef374a441712a3.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/220240/ss_67451a37c449551c6e6df63303d82a6f97f7423d.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/220240/ss_49320e8b23c9e658bc602d3343a41951598f82f2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/220240/ss_50567a99268f6d8995a0980c6552277e923835e3.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/J6gnmOIdK7I",
+    "old_price": "4,500.00",
+    "new_price": "750.00",
+    "rating": 4.7,
+    "about_game": "Survival on a tropical island against Vaas.",
+    "requirements": { "minimum": "RAM: 4GB | Storage: 15GB" }
+  },
+  {
+    "id": 13,
+    "name": "Far Cry 4",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/298110/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/298110/ss_968e7e8b23c9e658bc602d3343a41951598f82f2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/298110/ss_50567a99268f6d8995a0980c6552277e923835e3.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/298110/ss_60237e1276707476839b252119e71e54911d7311.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/298110/ss_6b1e6af728e833b378129e1c2e3532f483b8a923.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/298110/ss_3748297b8332960683a48e652d3a391515286576.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/69S8V_VvLIs",
+    "old_price": "6,500.00",
+    "new_price": "1,500.00",
+    "rating": 4.6,
+    "about_game": "Set in the Himalayas against Pagan Min.",
+    "requirements": { "minimum": "RAM: 4GB | Storage: 30GB" }
+  },
+  {
+    "id": 14,
+    "name": "Metro Exodus",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/412020/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/412020/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/fbbqlvuovQ0",
+    "old_price": "9,000.00",
+    "new_price": "2,500.00",
+    "rating": 4.7,
+    "about_game": "A journey across post-apocalyptic Russia.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 50GB" }
+  },
+  {
+    "id": 15,
+    "name": "God of War",
+    "main_image": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg",
+    "gallery": [
+      "https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_f8f87b28c89433a7592476b7e61a49472314560b.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_37a1a36465492d2449197c36b44589d0eb649b80.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_e1503c14d57c96bcbf6273137255018e594198c8.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_70404a37731737f1c1ca7f2d5743c74c95f1f0a2.1920x1080.jpg",
+      "https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_26046e04d44b5ef970c4068593414909df2998a4.1920x1080.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/HqQMh_tij0c",
+    "old_price": "14,500.00",
+    "new_price": "3,500.00",
+    "rating": 4.9,
+    "about_game": "Kratos' journey through Norse mythology.",
+    "requirements": { "minimum": "RAM: 8GB | Storage: 70GB" }
   }
 ]
