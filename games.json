@@ -1,77 +1,60 @@
-[
-
+  [
   {
-
     "id": 1,
-
-    "name": "Satisfactory",
-
-    "main_image": "https://gaming-cdn.com/images/products/4229/orig/satisfactory-pc-game-steam-cover.jpg?v=1748861754",
-
+    "name": "GTA V (Grand Theft Auto V)",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/271590/header.jpg",
     "gallery": [
-
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zNw6lW6mRK7OOyg-1NJZbjWbIHu9bvL03A&s",
-
-      "https://i.ytimg.com/vi/e2PrhY4AHZY/maxresdefault.jpg",
-
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ngp8Do2JzZGQYPJjFfmHRSM1GxoBlZDSoQ&s",
-
-      "https://shared.akamai.steamstatic.com/store_apps/526870/ss_963b6f.jpg",
-
-      "https://shared.akamai.steamstatic.com/store_apps/526870/ss_7c8d9a.jpg"
-
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_e1503c.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_840f34.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_26046e.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_40a45b.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_f8f87b.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_37a1a3.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_70404a.jpg"
     ],
-
-    "video": "https://www.youtube.com/embed/nrKEm4ue8tE",
-
-    "old_price": "12,369.37",
-
-    "new_price": "2,500.00",
-
-    "discount": "80%",
-
-    "rating": 4.9,
-
-    "publisher": "Coffee Stain Publishing",
-
-    "developer": "Coffee Stain Studios",
-
-    "release_date": "September 10, 2024",
-
-    "categories": [
-
-      "Simulation",
-
-      "Open World",
-
-      "Strategy",
-
-      "Automation"
-
-    ],
-
-    "tags": [
-
-      "Base Building",
-
-      "Automation",
-
-      "First-Person",
-
-      "Co-op"
-
-    ],
-
-    "about_game": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. As an employee of FICSIT Inc., your mission is to explore an alien planet, map out its resources, and build massive, multi-story factories to automate production. Conveyor belts, trains, and pipes are your tools to conquer nature and create industrial perfection.",
-
+    "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+    "old_price": "8,800.00",
+    "new_price": "5,500.00",
+    "discount": "38%",
+    "rating": 4.8,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "release_date": "April 14, 2015",
+    "categories": ["Action", "Open World", "Crime"],
+    "tags": ["Multiplayer", "Third-Person", "Heist"],
+    "about_game": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening elements of the criminal underworld, they must pull off a series of dangerous heists to survive in a ruthless city.",
     "requirements": {
-
-      "minimum": "OS: Windows 10 (64-Bit) | CPU: i5-3570 3.4 GHz | RAM: 8GB | GPU: GTX 1650 / GTX 1050-ti",
-
-      "recommended": "OS: Windows 11 (64-Bit) | CPU: Ryzen 5 5600X / i5-12400 | RAM: 16GB | GPU: RTX 2070 / RX 5700"
-
+      "minimum": "OS: Windows 10 | CPU: Intel Core 2 Quad Q6600 | RAM: 8GB | GPU: NVIDIA 9800 GT | Storage: 110 GB",
+      "recommended": "OS: Windows 11 | CPU: Intel Core i5 3470 | RAM: 16GB | GPU: NVIDIA GTX 660"
     }
-
+  },
+  {
+    "id": 2,
+    "name": "Far Cry 6",
+    "main_image": "https://shared.akamai.steamstatic.com/store_apps/1203630/header.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_374829.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_26e828.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_67451a.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_49320e.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_50567a.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_60237e.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_6b1e6a.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/-IjuH_R1pNM",
+    "old_price": "18,500.00",
+    "new_price": "3,000.00",
+    "discount": "84%",
+    "rating": 4.4,
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Toronto",
+    "release_date": "October 7, 2021",
+    "categories": ["Action", "FPS", "Adventure"],
+    "tags": ["Open World", "Guerilla Warfare", "Co-op"],
+    "about_game": "Welcome to Yara, a tropical paradise frozen in time. As the dictator of Yara, Antón Castillo is intent on restoring his nation back to its former glory by any means, with his son, Diego, following in his bloody footsteps. Their oppressive rule has ignited a revolution.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: AMD Ryzen 3 1200 | RAM: 8GB | GPU: AMD RX 460 | Storage: 60 GB",
+      "recommended": "OS: Windows 11 | CPU: AMD Ryzen 5 3600X | RAM: 16GB | GPU: NVIDIA GTX 1080"
+    }
   }
-
 ]
