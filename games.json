@@ -1,39 +1,191 @@
 [
   {
     "id": 1,
-    "name": "Satisfactory",
-    "main_image": "https://gaming-cdn.com/images/products/4229/orig/satisfactory-pc-game-steam-cover.jpg?v=1748861754",
+    "name": "GTA V (Grand Theft Auto V)",
+    "main_image": "https://gaming-cdn.com/images/products/186/orig/grand-theft-auto-v-pc-game-rockstar-cover.jpg",
     "gallery": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zNw6lW6mRK7OOyg-1NJZbjWbIHu9bvL03A&s",
-      "https://i.ytimg.com/vi/e2PrhY4AHZY/maxresdefault.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Ngp8Do2JzZGQYPJjFfmHRSM1GxoBlZDSoQ&s",
-      "https://shared.akamai.steamstatic.com/store_apps/526870/ss_963b6f.jpg",
-      "https://shared.akamai.steamstatic.com/store_apps/526870/ss_7c8d9a.jpg"
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_e1503c.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/271590/ss_840f34.jpg",
+      "https://images.alphacoders.com/451/451366.jpg",
+      "https://wallpapercave.com/wp/wp2040662.jpg",
+      "https://images2.alphacoders.com/474/474136.jpg",
+      "https://images6.alphacoders.com/474/474135.jpg",
+      "https://images5.alphacoders.com/474/474134.jpg"
     ],
-    "video": "https://www.youtube.com/embed/nrKEm4ue8tE",
-    "old_price": "12,369.37",
-    "new_price": "2,500.00",
-    "discount": "80%",
-    "rating": 4.9,
-    "publisher": "Coffee Stain Publishing",
-    "developer": "Coffee Stain Studios",
-    "release_date": "September 10, 2024",
-    "categories": [
-      "Simulation",
-      "Open World",
-      "Strategy",
-      "Automation"
-    ],
-    "tags": [
-      "Base Building",
-      "Automation",
-      "First-Person",
-      "Co-op"
-    ],
-    "about_game": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. As an employee of FICSIT Inc., your mission is to explore an alien planet, map out its resources, and build massive, multi-story factories to automate production. Conveyor belts, trains, and pipes are your tools to conquer nature and create industrial perfection.",
+    "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+    "old_price": "8,800.00",
+    "new_price": "5,250.00",
+    "discount": "40%",
+    "rating": 4.8,
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "release_date": "April 14, 2015",
+    "about_game": "A young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening elements of the criminal underworld.",
     "requirements": {
-      "minimum": "OS: Windows 10 (64-Bit) | CPU: i5-3570 3.4 GHz | RAM: 8GB | GPU: GTX 1650 / GTX 1050-ti",
-      "recommended": "OS: Windows 11 (64-Bit) | CPU: Ryzen 5 5600X / i5-12400 | RAM: 16GB | GPU: RTX 2070 / RX 5700"
+      "minimum": "OS: Windows 10 | CPU: i7-4770 | RAM: 8GB | GPU: GTX 1630 | Storage: 105 GB",
+      "recommended": "OS: Windows 11 | CPU: i5-9600K | RAM: 16GB | GPU: RTX 3060"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Green Hell",
+    "main_image": "https://gaming-cdn.com/images/products/2635/orig/green-hell-pc-game-steam-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/815370/ss_6086f6.jpg",
+      "https://shared.akamai.steamstatic.com/store_apps/815370/ss_123456.jpg",
+      "https://images3.alphacoders.com/102/1024567.jpg",
+      "https://wallpaperaccess.com/full/3151433.jpg",
+      "https://images.wallpapersden.com/image/download/green-hell-game-poster_65842_1920x1080.jpg",
+      "https://i.ytimg.com/vi/8itY_zS0M6A/maxresdefault.jpg",
+      "https://images4.alphacoders.com/103/1034455.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/8itY_zS0M6A",
+    "old_price": "7,500.00",
+    "new_price": "400.00",
+    "discount": "95%",
+    "rating": 4.6,
+    "publisher": "Creepy Jar",
+    "developer": "Creepy Jar",
+    "release_date": "September 5, 2019",
+    "about_game": "Green Hell is a sweltering struggle for survival in the Amazonian rainforest.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: 3.2 GHz | RAM: 4GB | GPU: GTX 660 | Storage: 8 GB",
+      "recommended": "OS: Windows 10 | CPU: 3.2 GHz | RAM: 8GB | GPU: GTX 970"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Terraria",
+    "main_image": "https://gaming-cdn.com/images/products/647/orig/terraria-pc-game-steam-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/105600/ss_84469d.jpg",
+      "https://images4.alphacoders.com/264/264903.jpg",
+      "https://wallpapercave.com/wp/wp1833909.jpg",
+      "https://images2.alphacoders.com/112/112345.jpg",
+      "https://images.alphacoders.com/605/605781.jpg",
+      "https://i.ytimg.com/vi/w7uOhFTrqpE/maxresdefault.jpg",
+      "https://wallpaperaccess.com/full/1126385.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/w7uOhFTrqpE",
+    "old_price": "3,000.00",
+    "new_price": "10.00",
+    "discount": "99%",
+    "rating": 4.9,
+    "publisher": "505 Games",
+    "developer": "Re-Logic",
+    "release_date": "May 16, 2011",
+    "about_game": "Dig, Fight, Explore, Build! A 2D world full of infinite possibilities.",
+    "requirements": {
+      "minimum": "OS: Windows XP/7/10 | CPU: 2.0 Ghz | RAM: 2.5GB | GPU: 128MB | Storage: 200 MB",
+      "recommended": "OS: Windows 10 | CPU: 3.0 Ghz | RAM: 4GB | GPU: 256MB"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Far Cry 3",
+    "main_image": "https://gaming-cdn.com/images/products/125/orig/far-cry-3-pc-game-ubisoft-connect-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/220240/ss_872780.jpg",
+      "https://images6.alphacoders.com/335/335293.jpg",
+      "https://wallpapercave.com/wp/wp1812154.jpg",
+      "https://images.alphacoders.com/241/241945.jpg",
+      "https://images2.alphacoders.com/437/437651.jpg",
+      "https://i.ytimg.com/vi/J6gnmOIdK7I/maxresdefault.jpg",
+      "https://images4.alphacoders.com/284/284562.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/J6gnmOIdK7I",
+    "old_price": "5,400.00",
+    "new_price": "750.00",
+    "discount": "86%",
+    "rating": 4.7,
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal",
+    "release_date": "Nov 29, 2012",
+    "about_game": "Survival on a tropical island against the iconic villain Vaas.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: Core 2 Duo | RAM: 4GB | GPU: 512MB | Storage: 15 GB",
+      "recommended": "OS: Windows 10 | CPU: i3-530 | RAM: 8GB | GPU: 1GB"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Far Cry 4",
+    "main_image": "https://gaming-cdn.com/images/products/439/orig/far-cry-4-pc-game-ubisoft-connect-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/298110/ss_968e7e.jpg",
+      "https://images3.alphacoders.com/554/554904.jpg",
+      "https://wallpapercave.com/wp/wp1810555.jpg",
+      "https://images7.alphacoders.com/543/543210.jpg",
+      "https://images.alphacoders.com/526/526563.jpg",
+      "https://images2.alphacoders.com/517/517896.jpg",
+      "https://images4.alphacoders.com/517/517898.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/69S8V_VvLIs",
+    "old_price": "9,900.00",
+    "new_price": "1,500.00",
+    "discount": "85%",
+    "rating": 4.6,
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal",
+    "release_date": "Nov 18, 2014",
+    "about_game": "Fight to free a nation ruled by a brutal dictator in the Himalayas.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-750 | RAM: 4GB | GPU: GTX 460 | Storage: 30 GB",
+      "recommended": "OS: Windows 10 | CPU: i5-2400S | RAM: 8GB | GPU: GTX 680"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Far Cry 6",
+    "main_image": "https://gaming-cdn.com/images/products/7331/orig/far-cry-6-pc-game-ubisoft-connect-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/1203630/ss_374829.jpg",
+      "https://images5.alphacoders.com/108/1085244.jpg",
+      "https://wallpapercave.com/wp/wp7164998.jpg",
+      "https://images.alphacoders.com/115/1154321.jpg",
+      "https://images7.alphacoders.com/108/1086055.jpg",
+      "https://images2.alphacoders.com/109/1092837.jpg",
+      "https://images4.alphacoders.com/112/1129384.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/-IjuH_R1pNM",
+    "old_price": "18,000.00",
+    "new_price": "3,000.00",
+    "discount": "83%",
+    "rating": 4.4,
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Toronto",
+    "release_date": "Oct 7, 2021",
+    "about_game": "A modern-day guerrilla revolution in the tropical paradise of Yara.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: i5-4460 | RAM: 8GB | GPU: GTX 960 | Storage: 60 GB",
+      "recommended": "OS: Windows 11 | CPU: i7-9700 | RAM: 16GB | GPU: GTX 1080"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Visage",
+    "main_image": "https://gaming-cdn.com/images/products/7692/orig/visage-pc-game-steam-cover.jpg",
+    "gallery": [
+      "https://shared.akamai.steamstatic.com/store_apps/594330/ss_84f98e.jpg",
+      "https://images.alphacoders.com/109/1093456.jpg",
+      "https://wallpaperaccess.com/full/4724887.jpg",
+      "https://images7.alphacoders.com/956/956432.jpg",
+      "https://images2.alphacoders.com/956/956433.jpg",
+      "https://i.ytimg.com/vi/V6S6Fv_m_Uo/maxresdefault.jpg",
+      "https://images4.alphacoders.com/956/956435.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/V6S6Fv_m_Uo",
+    "old_price": "10,500.00",
+    "new_price": "500.00",
+    "discount": "95%",
+    "rating": 4.5,
+    "publisher": "SadSquare Studio",
+    "developer": "SadSquare Studio",
+    "release_date": "Oct 30, 2020",
+    "about_game": "A psychological horror game set in a massive house where terrible things happened.",
+    "requirements": {
+      "minimum": "OS: Windows 10 | CPU: Core i3 | RAM: 6GB | GPU: GTX 950 | Storage: 10 GB",
+      "recommended": "OS: Windows 10 | CPU: Core i5 | RAM: 8GB | GPU: GTX 1060"
     }
   }
 ]
